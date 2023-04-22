@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 21 Apr 2023 23:05:19 at https://www.brainmeasures.com/Register.aspx +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.brainmeasures.com/Register.aspx -O1 "C:\Users\HP\Desktop\kkkzzzz3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:05:21	Warning: 	Note: due to https://www.brainmeasures.com remote robots.txt rules, links beginning with these path will be forbidden: /purchcourse.aspx*, /individual/mycart.aspx*, /individual/MyCart.aspx*, /Individual/MyCart.aspx*, /issue.aspx*, /Login.aspx*, /ErrorPages/DefaultError.aspx*, /courses/Platinum_Personal_Trainer/*, /OuterTranscript.aspx*, /Individual/wishlist.aspx* (see in the options to disable this)
+23:05:50	Warning: 	Link https://www.brainmeasures.com/Register.aspx not scanned (follow robots meta tag)
+23:06:10	Error: 	"Not Found" (404) at link https://www.brainmeasures.com/home/PageNotFound?aspxerrorpath=/fonts/GOTHIB.TTF (from https://www.brainmeasures.com/Register.aspx)
+23:06:10	Error: 	"Not Found" (404) at link https://www.brainmeasures.com/home/PageNotFound?aspxerrorpath=/dist/images/ie-spacer.gif (from https://www.brainmeasures.com/dist/css/jquery.gritter.css)
+23:06:10	Error: 	"Not Found" (404) at link https://www.brainmeasures.com/home/PageNotFound?aspxerrorpath=/dist/images/gritter.png (from https://www.brainmeasures.com/dist/css/jquery.gritter.css)
+23:06:10	Error: 	"Not Found" (404) at link https://www.brainmeasures.com/home/PageNotFound?aspxerrorpath=/dist/images/gritter-light.png (from https://www.brainmeasures.com/dist/css/jquery.gritter.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 51 seconds : 27 links scanned, 22 files written (990384 bytes overall) [956800 bytes received at 18760 bytes/sec], 77995 bytes transferred using HTTP compression in 2 files, ratio 19%
+(4 errors, 2 warnings, 0 messages)

@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:13:04	24192/24192	---M--	200	added ('OK')	text/html	date:Fri,%2021%20Apr%202023%2016:43:05%20GMT	https://www.brainmeasures.com/login.aspx	C:/Users/HP/Desktop/kkzzz/www.brainmeasures.com/login.html	(from )
+22:13:05	413/413	---M--	200	added ('OK')	text/plain	etag:%2292d8c1277575d81:0%22	https://www.brainmeasures.com/robots.txt		(from )
+22:13:08	24192/24192	---M--	200	added ('OK')	text/html	date:Fri,%2021%20Apr%202023%2016:43:10%20GMT	https://www.brainmeasures.com/Login.aspx	C:/Users/HP/Desktop/kkzzz/www.brainmeasures.com/Login-2.html	(from https://www.brainmeasures.com/login.aspx)
